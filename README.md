@@ -4,8 +4,8 @@ https://play.google.com/store/apps/details?id=org.godotengine.unityofwar
  - मुझे ओपन-सोर्स सॉफ़्टवेयर पसंद है और मुझे Godot Engine से प्यार है
 
 - 👋 Hi, I’m @AlexKerb25, proactive game developer from Almaty, Kazakhstan. 
-- I'm founder and leader of Team Ascension Pioneers game studio, with Unity of War as its spearhead product
-- I like open-source software and is in love with Godot Engine
+- I'm the founder and leader of Team Ascension Pioneers game studio, with Unity of War as its spearhead product
+- I like open-source software and in love with Godot Engine
 
 <!---
 AlexKerb25/AlexKerb25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
